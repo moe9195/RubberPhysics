@@ -1,2 +1,3 @@
-# RubberPhysics
-modelling rubber mechanics with python
+# Rubber Physics
+
+A collection of code for modelling the mechanical behaviour of elastomers.

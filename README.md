@@ -1,3 +1,3 @@
 # Rubber Physics
 
-A collection of code for modelling the mechanical behaviour of elastomers.
+A collection of methods for modelling the mechanical behaviour of elastomers.
